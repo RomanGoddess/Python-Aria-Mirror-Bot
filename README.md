@@ -16,6 +16,9 @@ This project is heavily inspired from @out386 's telegram bot which is written i
 - Mirror all youtube-dl supported links
 - Mirror telegram files
 
+# How to deploy?
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # Upcoming features (TODOs):
 
 # How to deploy?
